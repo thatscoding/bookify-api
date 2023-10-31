@@ -9,6 +9,9 @@
     "start": "node src/index.js",
     "dev": "nodemon src/index.js"
   },
+  "engines": {
+    "node": ">=14.20.1"
+  },
   "keywords": [],
   "author": "sachin shakya",
   "license": "ISC",
