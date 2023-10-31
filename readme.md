@@ -5,7 +5,7 @@ Our Node.js API provides various endpoints for interacting with our application.
 
 #### base URL 
  ##### dev : http://localhost:8000 
- ##### prod : 
+ ##### prod : https://api-bookify.onrender.com
 
 
 ### 2. Endpoints
